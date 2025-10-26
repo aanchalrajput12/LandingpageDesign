@@ -1,0 +1,47 @@
+.clients-section {
+  text-align: center;
+  margin: 48px auto;
+  max-width: 1000px;
+}
+
+.clients-title {
+  color: #393939;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.clients-subtitle {
+  color: #7c7c7c;
+  font-size: 15px;
+  margin-bottom: 32px;
+}
+
+.clients-logos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 48px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.client-logo {
+  height: 38px;
+  width: auto;
+  filter: grayscale(1);
+  opacity: 0.9;
+}
+
+.community-section h2 {
+  font-size: 28px;
+  font-weight: 600;
+  color: #393939;
+  margin-bottom: 6px;
+}
+
+.community-subtitle {
+  color: #8d8d8d;
+  font-size: 14px;
+  margin-bottom: 0;
+}

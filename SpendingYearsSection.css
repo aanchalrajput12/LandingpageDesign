@@ -1,0 +1,50 @@
+.spending-years-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  background: #fff;
+  padding: 48px 0;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.spending-years-illustration img {
+  width: 310px;
+  height: auto;
+  display: block;
+}
+
+.spending-years-content {
+  max-width: 520px;
+  text-align: left;
+}
+
+.spending-years-content h2 {
+  color: #393939;
+  font-size: 28px;
+  font-weight: 600;
+  margin-bottom: 18px;
+}
+
+.spending-years-content p {
+  color: #888;
+  font-size: 15px;
+  margin-bottom: 28px;
+  line-height: 1.7;
+}
+
+.learn-more-btn {
+  background: #4caf4f;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  padding: 12px 32px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.learn-more-btn:hover {
+  background: #388e3c;
+}
